@@ -57,3 +57,4 @@ dist/
 # ---- Cache ----
 .cache/
 *.tmp
+.DS_Store
